@@ -1,0 +1,29 @@
+<svg width="505" height="256" viewBox="0 0 505 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="505" height="256" fill="#2F3C98"/>
+  <rect width="84" height="256" fill="#28B7C8"/>
+  <rect x="84" width="6" height="256" fill="#25338B"/>
+
+  <!-- Stylized brand mark inspired by provided logo -->
+  <path d="M98 0H336V74C336 92 322 106 304 106H254V256H98V0Z" fill="#28B7C8"/>
+  <path d="M254 106H336V160C336 213 293 256 240 256H254V106Z" fill="#28B7C8"/>
+
+  <rect x="172" width="28" height="44" rx="7" fill="#2F3C98"/>
+  <rect x="206" width="28" height="50" rx="7" fill="#2F3C98"/>
+  <rect x="240" width="28" height="44" rx="7" fill="#2F3C98"/>
+
+  <circle cx="106" cy="74" r="8" fill="#2F3C98"/>
+  <circle cx="122" cy="74" r="8" fill="#2F3C98"/>
+  <circle cx="138" cy="74" r="8" fill="#2F3C98"/>
+  <circle cx="154" cy="74" r="8" fill="#2F3C98"/>
+  <circle cx="170" cy="74" r="8" fill="#2F3C98"/>
+  <circle cx="186" cy="74" r="8" fill="#2F3C98"/>
+  <circle cx="202" cy="74" r="8" fill="#2F3C98"/>
+  <circle cx="218" cy="74" r="8" fill="#2F3C98"/>
+  <circle cx="234" cy="74" r="8" fill="#2F3C98"/>
+  <circle cx="250" cy="74" r="8" fill="#2F3C98"/>
+  <circle cx="266" cy="74" r="8" fill="#2F3C98"/>
+  <circle cx="282" cy="74" r="8" fill="#2F3C98"/>
+  <circle cx="298" cy="74" r="8" fill="#2F3C98"/>
+  <circle cx="314" cy="74" r="8" fill="#2F3C98"/>
+  <circle cx="330" cy="74" r="8" fill="#2F3C98"/>
+</svg>
